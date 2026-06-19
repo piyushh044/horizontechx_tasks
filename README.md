@@ -1,4 +1,4 @@
-# Horizon TechX Internship
+# horizontechx_tasks
 
 This repository contains projects completed during the Horizon TechX Internship Program.
 
